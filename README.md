@@ -1,2 +1,4 @@
 # DIU_Practica3_Prototipado
-GitHub Pages
+
+Página de inicio: https://exmorphis.github.io/DIU_Practica3_Prototipado/
+
